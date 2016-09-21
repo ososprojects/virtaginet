@@ -1,0 +1,18 @@
+# HOWTO create a virtual agi Lan infrastructure on virtual Box (german)
+
+Die iso Dateien laden von:
+https://www.pfsense.org/download/
+http://www.ubuntu.com/download/server
+
+cd /opt/
+mkdir gatterer
+
+mv ~/Downloads/*iso* /opt/gatterer
+
+sudo chown worker.worker gatterer
+
+cd gatterer
+gunzip pfSense-CE-memstick-2.3.2-RELEASE-amd64.img.gz 
+
+
+
