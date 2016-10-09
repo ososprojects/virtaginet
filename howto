@@ -14,5 +14,13 @@ sudo chown worker.worker gatterer
 cd gatterer
 gunzip pfSense-CE-memstick-2.3.2-RELEASE-amd64.img.gz 
 
+server und pfsense installieren 
+configurien
+
+----
+da fehlt einiges
+----
+
+client tools installieren 
 
 
